@@ -1,3 +1,5 @@
+# Integrante:   HILTER SÀNCHEZ
+#  Revision y validacion de Bubble Sort
 # Parte 4: Ordenamiento alfabetico de cadenas - Bubble Sort
 import copy
 
