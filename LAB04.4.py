@@ -17,7 +17,6 @@ for i in range(n - 1):
             nombres[j], nombres[j + 1] = nombres[j + 1], nombres[j]
 
 print(f"Lista despues de ordenar: {nombres}")
-
 verificacion = sorted(nombres_original)
 
 print(f"Verificacion con sorted : {verificacion}")
